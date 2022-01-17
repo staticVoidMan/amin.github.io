@@ -23,11 +23,11 @@ skills:
  - Swift
  - Objective-C
  - SwiftUI
+ - Combine
  - Core Data
  - watchOS
  - Dart
  - Flutter
- - Combine
  - Agile
  - Jira
  - Git
@@ -54,7 +54,7 @@ roles:
    end: Ongoing
    employer: Codewalla Softwares Pvt. Ltd.
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior iOS Developer
+ - title: Sr.iOS Developer
    start: 2015
    end: 2019
    employer: Codewalla Softwares Pvt. Ltd.
@@ -63,6 +63,16 @@ roles:
    start: 2013
    end: 2015
    employer: Codewalla Softwares Pvt. Ltd.
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+- title: Technical Support Associate
+   start: 2010
+   end: 2011
+   employer: mPhasis
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+- title: Technical Support Associate
+   start: 2008
+   end: 2009
+   employer: vCustomer
    description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
 
 #Education is required
