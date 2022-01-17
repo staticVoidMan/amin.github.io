@@ -8,14 +8,18 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/aminsiddiqui
  - title: GitHub
    url: https://github.com/staticVoidMan
  - title: StackOverflow
    url: https://stackoverflow.com/users/2857130/staticvoidman
- - title: LinkedIn
-   url: https://www.linkedin.com/in/aminsiddiqui
  - title: Udemy
    url: https://www.udemy.com/user/amin-siddiqui
+ - title: Codewars
+   url: https://www.codewars.com/users/staticVoidMan
+ - title: Leetcode
+   url: https://leetcode.com/aminSiddiqui
 
 #Any buzzword skills you want to include
 skills:
