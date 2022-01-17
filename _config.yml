@@ -91,12 +91,12 @@ education:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
+speakerdeck:
+   profileurl: https://speakerdeck.com/staticvoidman
+   talks:
+    - title: Product Management for Engineers
+      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      conference: API Conference, Berlin 2018
 
 #List of interesting Github repo/projects to include - optional
 github:
